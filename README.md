@@ -21,6 +21,8 @@ This project analyzes the sales and inventory performance of SweetBite Chocolate
 - None of the products ran out of inventory during the observed period.
 - Gift Box, Strawberry Delight, and Coffee Mocha had the highest manufacturing costs.
 
+- For detailed business recommendations and supporting analysis, see the Business Report included in this repository.
+
 ## Files Included
 - Excel Dataset and Analysis
 - Statement of Work
